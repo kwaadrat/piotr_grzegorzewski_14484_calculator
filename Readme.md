@@ -1,1 +1,1 @@
-Piotr Grzegorzewski 14484
+Simple calculator project using .NET and C#
